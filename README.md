@@ -5,7 +5,7 @@
 This project aims to analyze Uber ride patterns, peak demand periods, revenue trends, and geographic ride distribution using Trip Details and Location Table data.
 
   
-LIVE Dashboard-
+LIVE Dashboard- https://app.powerbi.com/view?r=eyJrIjoiY2M1NmU0YzItMDliYS00Mjc3LTg4YjAtYzhhYTQ3YTY0Y2FkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ### 🎯**Objective:**   
 
